@@ -12,7 +12,7 @@ Computer engineering external training material for Ajman University of Science 
 	* Modify a file
 	* Push to your remote bitbucket repository
 	* Resolve a merge conflict
-## Lecture 2 - GIT & Team Tools
+## Lecture 2 - Cloud Technologies - Containers
 ### HW2
 * Install Docker Desktop, for windows home users follow this guide (WSL2) https://docs.docker.com/docker-for-windows/install-windows-home/
 * Install Portainer
