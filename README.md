@@ -14,7 +14,7 @@ Computer engineering external training material for Ajman University of Science 
 	* Resolve a merge conflict
 ## Lecture 2 - GIT & Team Tools
 ### HW2
-* Install Docker Desktop
+* Install Docker Desktop, for windows home users follow this guide (WSL2) https://docs.docker.com/docker-for-windows/install-windows-home/
 * Install Portainer
 * Deploy the following docker images
 	* CouchDB
@@ -22,5 +22,5 @@ Computer engineering external training material for Ajman University of Science 
 * Go through this tutorial to be more familiar with Dockerfile and docker compose as we will use them in upcoming homeworks which build your project
 	* [https://www.baeldung.com/dockerizing-spring-boot-application](https://www.baeldung.com/dockerizing-spring-boot-application)
 ## Project
-all your homeworks are incrementally building your project, please submit your project ideas, one project per team is required
+All your homeworks are incrementally building your project, please submit your project ideas, one project per team is required
 below diagram illustrates the components involved in any of your projects, however you are welcome to change components if it will help you understand the materials of this course
