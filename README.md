@@ -24,3 +24,5 @@ Computer engineering external training material for Ajman University of Science 
 ## Project
 All your homeworks are incrementally building your project, please submit your project ideas, one project per team is required
 below diagram illustrates the components involved in any of your projects, however you are welcome to change components if it will help you understand the materials of this course
+
+<img src="./diagram/project.svg">
